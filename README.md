@@ -1,3 +1,3 @@
-This aplication was made just for studying, in the online classes of Rocketseat.
-The purpose of it is to gather ideias of things to do at home during the quarantine time caused by Covid-19.
-It has Express, Nunjucks, Nodemon, SQLite and SQLite 3 as dependencies. At the time I did not have the knowleadge to install the devDependencies apart.
+Esse projeto foi desenvolvido durante o Workshopdev da [Rocketseat](https://github.com/Rocketseat), uma série de aulas para iniciantes que foram ao ar junto com a Semana Omnistack.
+
+O objetivo da aplicação é compartilhar ideias sobre o que fazer em casa durante o período de isolamento social causado pela pandemia em 2020. Na página inicial é exibida uma breve descrição junto com as ideias adicionadas mais recentemente. Há um link para cadastrar novas ideias e um botão para ver todas. Abaixo algumas capturas de tela:
